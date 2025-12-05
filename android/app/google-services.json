@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781006891448",
+    "project_id": "laksago-d1420",
+    "storage_bucket": "laksago-d1420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781006891448:android:093e2187ea67962776874d",
+        "android_client_info": {
+          "package_name": "com.example.home_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJvkGuj42ASeku2i82F5-rWlG-Zyiavg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
